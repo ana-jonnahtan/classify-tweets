@@ -1,3 +1,4 @@
 *.pyc
 .ipynb_checkpoints/ClassifyTweets-checkpoint.ipynb
 credentials.py
+credentials.py
